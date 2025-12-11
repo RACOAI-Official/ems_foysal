@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "708f1f77bcf86cd799439001",
+    "applicantID": "507f1f77bcf86cd799439014",
+    "title": "Annual Leave",
+    "type": "Vacation",
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-05",
+    "appliedDate": "2024-12-25",
+    "period": 5,
+    "reason": "Family vacation",
+    "adminResponse": "Approved"
+  },
+  {
+    "_id": "708f1f77bcf86cd799439002",
+    "applicantID": "507f1f77bcf86cd799439015",
+    "title": "Sick Leave",
+    "type": "Medical",
+    "startDate": "2025-01-10",
+    "endDate": "2025-01-10",
+    "appliedDate": "2025-01-09",
+    "period": 1,
+    "reason": "Doctor appointment",
+    "adminResponse": "Pending"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "607f1f77bcf86cd799439001",
+    "employeeID": "507f1f77bcf86cd799439014",
+    "year": 2025,
+    "month": 1,
+    "date": 6,
+    "day": "Monday",
+    "present": true
+  },
+  {
+    "_id": "607f1f77bcf86cd799439002",
+    "employeeID": "507f1f77bcf86cd799439014",
+    "year": 2025,
+    "month": 1,
+    "date": 7,
+    "day": "Tuesday",
+    "present": true
+  },
+  {
+    "_id": "607f1f77bcf86cd799439003",
+    "employeeID": "507f1f77bcf86cd799439015",
+    "year": 2025,
+    "month": 1,
+    "date": 6,
+    "day": "Monday",
+    "present": false
+  }
+]

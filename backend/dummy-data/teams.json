@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "name": "Development",
+    "description": "Software Development Team",
+    "image": "team.png",
+    "leader": "507f1f77bcf86cd799439012",
+    "status": "active",
+    "createdAt": "2025-01-01T10:00:00.000Z",
+    "updatedAt": "2025-01-01T10:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439016",
+    "name": "Marketing",
+    "description": "Marketing and Brand Team",
+    "image": "team.png",
+    "leader": null,
+    "status": "active",
+    "createdAt": "2025-01-05T10:00:00.000Z",
+    "updatedAt": "2025-01-05T10:00:00.000Z"
+  }
+]

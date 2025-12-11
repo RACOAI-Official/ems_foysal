@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "a09f1f77bcf86cd799439001",
+    "employeeID": "507f1f77bcf86cd799439014",
+    "salary": 60000,
+    "bonus": 5000,
+    "reasonForBonus": "Good performance in Q4",
+    "assignedDate": "2024-12-01"
+  },
+  {
+    "_id": "a09f1f77bcf86cd799439002",
+    "employeeID": "507f1f77bcf86cd799439015",
+    "salary": 55000,
+    "bonus": 0,
+    "reasonForBonus": "N/A",
+    "assignedDate": "2024-12-01"
+  }
+]
